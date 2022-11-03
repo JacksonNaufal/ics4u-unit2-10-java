@@ -12,7 +12,7 @@
  * Make class Truck.
  */
 
-public class Truck extends Vehicle {
+public abstract class Truck extends Vehicle {
 
     /**
     * This is the license plate.

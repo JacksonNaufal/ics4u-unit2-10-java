@@ -12,7 +12,7 @@
  * Make class Vehicle.
  */
 
-public class Vehicle {
+abstract class Vehicle {
 
     /**
      * This is the color.
